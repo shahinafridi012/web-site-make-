@@ -1,0 +1,453 @@
+/* lets go */
+body {
+
+    font-family: "Open Sans", sans-serif;
+}
+
+main {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.first-background {
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('resources/Banner\ Image.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 550px;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 18px;
+    width: auto;
+}
+
+.happy-new-year {
+    color: white;
+    font: 20px;
+
+
+}
+
+.banner-section {
+    text-align: center;
+}
+
+.new-year-party-celebration {
+    font-size: 60px;
+    font-weight: bold;
+    color: white;
+    margin-top: 0px;
+}
+
+/* First Section Ending Here */
+
+
+/* Second Section Start Here */
+
+
+.discount {
+    font-size: 60px;
+    color: #FF0000;
+}
+
+.HOLIDAY {
+    color: #FF0000;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.CATEGORIES {
+
+    color: #070211;
+    font-weight: 800px;
+    font-size: 48px;
+}
+
+.second-background {
+    text-align: center;
+}
+
+/* Second Section Two Ending Here */
+
+/* third section start from here  */
+.Welcome-to-mid-night-party {
+    font-size: 60px;
+    font-weight: bold;
+    font-weight: 50px;
+    color: white;
+    margin-left: 130px;
+    padding-top: 130px;
+    font: 100;
+}
+
+.section-problem {
+    padding-top: 100px;
+}
+
+
+
+.third-background {
+    background: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url('/resources/Vectorrr.png');
+    margin-top: 100px;
+    height: 600px;
+    border-radius: 16px;
+    color: white;
+}
+
+.something-new {
+    color: white;
+    font-size: 18px;
+    padding-left: 130px;
+}
+
+.JOINNOW {
+    margin-top: 60px;
+    padding-left: 130px;
+}
+
+/* third section end here  */
+
+/* fourth section start from here */
+
+
+
+span {
+    color: #FF0000;
+    text-align: center;
+}
+
+.Newparkhotel {
+    text-align: center;
+    font: 20;
+    font-size: 35px;
+
+}
+
+.Date31DecemberNight2024 {
+    text-align: center;
+    font-size: 35px;
+}
+
+.TimeEvening {
+    text-align: center;
+    font-size: 35px;
+}
+
+.button {
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    border-radius: 8px;
+    background: #F00;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+
+    margin-top: 40px;
+
+}
+
+.text-center {
+    text-align: center;
+}
+
+
+
+.color {
+    background-color: rgba(241, 189, 189, 0.22);
+    border-radius: 18px;
+    height: 470px;
+    padding-top: 110px;
+    border-width: 10px;
+}
+
+.color-coustomize {
+    padding-top: 110px;
+}
+
+/* fourth section end from here */
+ 
+/* fifth section start from here */
+
+.banner {
+    display: flex;
+    padding: 100px 0px;
+    
+    gap: 30px;
+    align-items: center;
+
+}
+
+
+.offer {
+    color: #F00;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+
+.soon {
+    font-size: 40px;
+    font-weight: bold;
+    font-weight: 50px;
+    margin: 0px;
+    margin: 5px 0px;
+}
+
+
+.image-border {
+    border: 16px solid red;
+    border-radius: 50%;
+    padding: 25px;
+    align-items: center     ;
+
+}
+
+.banne-content {
+    padding-left: 40px;
+
+}
+/* fifth section end from here  */
+
+.section-content{
+    text-align: center;
+    margin-bottom: 50px;
+ 
+}
+.section-greeting{
+    color:black;
+    font-size: 24px;
+    font-weight: 500;
+   
+}
+.section-title{
+    color: #070211;
+  
+    font-size: 72px;
+    font-weight: 900;
+    margin: 0px;
+}
+.span{
+    color: #F00;
+    text-align: center;
+  
+    font-size: 72px;
+    font-weight: 900;
+}
+.section-description{
+  
+    font-size: 20px;
+    line-height: 32px;
+}
+
+.discount-img{
+    display: flex;
+    justify-content:flex-end; 
+    padding-bottom: 20px; 
+    /* padding-right: 60px; */
+}
+
+.red-color{
+    border-radius: 8px ;
+    background: #F00;
+    height: 230px;
+    margin-top: -200px;
+   
+}
+.discount {
+    display: flex;
+    text-align: center;
+    /* width: auto; */
+    justify-content: center;
+}
+.gift-img {
+    padding-top: 70px;
+    width: auto;
+}
+.girl-photo {
+    /* padding-top: 20px; */
+}
+.discount-2 {
+    padding-right: 1px;
+    padding-top: 143px;
+}
+.best-gift {
+    color: #F00;
+    font-size: 15px;
+    font-weight: bold;
+}
+.section-5 {
+    padding-top: 117px;
+}
+    .shopping-img {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        gap: 24px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    
+    .shopping-img img {
+        width: calc(33.33% - 20px);
+        height: auto;
+    }
+    .shopping-img img:hover {
+        border: 3px solid white;
+        border-radius: 17px;
+    }
+    .some-portfolio {
+        font-size: 35px;
+    }
+
+    .last-section {
+        background-color: rgba(241, 189, 189, 0.22);
+    border-radius: 18px;
+    height: 470px;
+    padding-top: 110px;
+    border-width: 10px;
+    text-align: center;
+    }
+    .email-photo {
+        text-align: center;
+    }
+    .Subscribe-button {
+        padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    border: none;
+    border-radius: 8px;
+    background: #F00;
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+
+    margin-top: 40px;
+    }
+    .Newsletter {
+        text-align: center;
+        font: 100;
+        font-size: 50px;
+    }
+    .final-img {
+        text-align: center;
+    }
+   .final-descriptoin {
+    text-align: center;
+   }
+   .subscribe-input{
+    width: 500px;
+    border-radius: 50px;
+    background: #FFF;
+    border: none;
+    margin-top: 30px;
+    padding: 30px 0px 25px 30px;
+}
+.subscribe-input::placeholder {
+    color: rgba(7, 2, 17, 0.30);
+    font-size: 18px;
+}
+.subscribe-button{
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+   margin-left: -28px;
+    font-size: 20px;
+    padding: 24px 56px 24px 56px;
+     border: none; 
+    color: #FFF;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+.subscribe-form{
+    border-radius: 50%; 
+text-align: center;}
+.footer {
+    background-color: #070211;
+    
+    height: 470px;
+    padding-top: 110px;
+    border-width: 10px;
+}
+.final-black {
+    padding-top: 100px;
+}
+.footer {
+    background-color: #070211;
+    padding: 100px 0;
+}
+
+.LAST-DETALIS {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1320px;
+    margin: 0 auto;
+    align-items: center; 
+}
+
+.LAST-DESCRIPTION {
+    color: #FFF;
+    font-size: 20px;
+    line-height: 40px;
+    max-width: 400px;
+}
+.WEBSITE-ENDING {
+    display: flex;
+    flex-direction: column; 
+    align-items: left; 
+}
+
+.icon {
+    color: #FFF;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    
+}
+
+.icon img {
+    width: 24px;
+    height: 24px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+.amar-sunar{
+    text-align: center;
+    padding: 20px 0px;
+}
+.amar-sunar-bangla{
+    margin: 10px 10px;
+}
+
+hr {
+    width: 1320px;
+    margin: 10px auto; 
+    border: 1px solid rgba(255, 255, 255, 0.15);;
+}
+.copyright{
+    display: flex;
+    justify-content: space-between;
+}
+.copyright p {
+    color: #FFF;
+    font-size: 20px;
+}
+
+.last-paragraph {
+    padding-top: 110px;
+}
+.SHAHIN-AFRIDI {
+    padding-right: 50px;
+}
+.naver-lost {
+    padding-right: 50px;
+}
